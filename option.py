@@ -1,6 +1,3 @@
-from _typeshed import Self, SupportsItemAccess
-
-
 class Games:
     """Games"""
     def ask_yes_no(question):
